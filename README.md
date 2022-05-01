@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/oracle.png">
+<img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/oracle.png">
 <p><i>A Novel Implementation of LiDAR Mesh Classification and Image Classifiers In Assistive Technology for the Visually Impaired.</i></p>
 
 <br>
@@ -27,23 +27,34 @@ To alleviate the stressors experienced by the visually impaired when traversing 
 <br>
 
 <h3>Results</h3>
-<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/graph.png">
-<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/accuracies.png">
-<img src="https://raw.githubusercontent.com/hershyz/oracle/main/assets/distances.png">
+<ul>
+  <li><a href = "https://drive.google.com/file/d/1UDUjAMYN9o3ukPZ7a5AU71Pw-KHSN6sM/">Video</a><\li>
+<\ul>
+ 
+<img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/graph.png">
+<img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/accuracies.png">
+<img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/distances.png">
 
+<br>
+
+<h3>Publication</h3>
+<ul>
+  <li><a href="https://raw.githubusercontent.com/JBPrew/oracle/Oracle Research Publication.pdf">Research Paper</a></li>
+<\ul>
 <br>
 
 <h3>Partners</h3>
 <ul>
   <li><a href="https://github.com/sam-shridhar1950f">Samarth Shridhar</a></li>
-  <li><a href="https://github.com/hershyz">Hrishikesh Bagalkote</a></li>
+  <li><a href="https://github.com/JBPrew">Hrishikesh Bagalkote</a></li>
 </ul>
 
 <br>
 
 <h3>Honors & Awards 🏆</h3>
 <ul>
-  <li>1st Place in the Georgia Junior Science & Humanities Symposium</li>
+  <li>1st Place in the Georgia Junior Science & Humanities Symposium (as presenter)</li>
+  <li>Honorable Mention in the National Junior Science & Humanities Symposium (as presenter)</li>
   <li>Georgia Science and Engineering Fair: Best in Category, Systems Software</li>
   <li>Georgia Science and Engineering Fair: Mu Alpha Theta Award</li>
   <li>1st Place in the GSMST Science & Engineering Fair</li>
