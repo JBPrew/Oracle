@@ -36,7 +36,7 @@ To alleviate the stressors experienced by the visually impaired when traversing 
 <h3>Partners</h3>
 <ul>
   <li><a href="https://github.com/sam-shridhar1950f">Samarth Shridhar</a></li>
-  <li><a href="https://github.com/JBPrew">Jack Prewitt</a></li>
+  <li><a href="https://github.com/hershyz">Hrishikesh Bagalkote</a></li>
 </ul>
 
 <br>
