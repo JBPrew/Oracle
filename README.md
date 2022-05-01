@@ -41,6 +41,7 @@ To alleviate the stressors experienced by the visually impaired when traversing 
 <ul>
   <li><a href="https://raw.githubusercontent.com/JBPrew/oracle/Oracle Research Publication.pdf">Research Paper</a></li>
 <\ul>
+
 <br>
 
 <h3>Partners</h3>
