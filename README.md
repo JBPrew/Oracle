@@ -44,6 +44,12 @@ To alleviate the stressors experienced by the visually impaired when traversing 
 
 <br>
 
+<h3>Video</h3>
+<ul>
+  <li><a href="https://tinyurl.com/PrewittOracleVideo">Video of Device</a></li>
+</ul>
+
+<br>
 <h3>Partners</h3>
 <ul>
   <li><a href="https://github.com/sam-shridhar1950f">Samarth Shridhar</a></li>
