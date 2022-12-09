@@ -27,10 +27,6 @@ To alleviate the stressors experienced by the visually impaired when traversing 
 <br>
 
 <h3>Results</h3>
-<ul>
-  <li><a href = "https://drive.google.com/file/d/1UDUjAMYN9o3ukPZ7a5AU71Pw-KHSN6sM/">Video</a></li>
-</ul>
- 
 <img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/graph.png">
 <img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/accuracies.png">
 <img src="https://raw.githubusercontent.com/JBPrew/oracle/main/assets/distances.png">
